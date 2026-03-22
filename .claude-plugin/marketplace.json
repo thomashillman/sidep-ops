@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "sidep-ops",
-      "source": "."
+      "source": "./"
     }
   ]
 }
