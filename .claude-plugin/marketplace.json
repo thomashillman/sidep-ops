@@ -1,0 +1,12 @@
+{
+  "name": "sidep-ops",
+  "owner": {
+    "name": "sidep-ops contributors"
+  },
+  "plugins": [
+    {
+      "name": "sidep-ops",
+      "source": "."
+    }
+  ]
+}
