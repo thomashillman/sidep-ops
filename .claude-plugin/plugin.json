@@ -1,0 +1,23 @@
+{
+  "name": "sidep-ops",
+  "version": "1.0.0",
+  "description": "Unified plugin merging Superpowers discipline + OMC orchestration: TDD, systematic debugging, verification gates, multi-agent coordination, MCP tools",
+  "author": {
+    "name": "sidep-ops contributors"
+  },
+  "homepage": "https://github.com/your-username/sidep-ops",
+  "repository": "https://github.com/your-username/sidep-ops",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "multi-agent",
+    "orchestration",
+    "tdd",
+    "debugging",
+    "verification",
+    "best-practices"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

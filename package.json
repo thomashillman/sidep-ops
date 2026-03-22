@@ -1,0 +1,28 @@
+{
+  "name": "sidep-ops",
+  "version": "1.0.0",
+  "description": "Unified plugin: Superpowers discipline + OMC orchestration",
+  "type": "module",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "agents",
+    "bridge",
+    "hooks",
+    "scripts",
+    "skills",
+    ".claude-plugin",
+    ".mcp.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "sidep-ops"
+  ]
+}
